@@ -4,6 +4,12 @@ Welcome to my personal repository! I'm a passionate software engineer with a pro
 
 ---
 
+### ✨ Slogan
+
+> _“AI-enabled Python Developer | I help build scalable micro-services with AI”_
+
+---
+
 ## 🚀 About Me
 
 - 💼 **Current Role**: Software Engineer - 2  
@@ -45,12 +51,8 @@ Welcome to my personal repository! I'm a passionate software engineer with a pro
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/link-us)
-- [GitHub](https://github.com/curious-dev-code)
+- [GitHub](https://github.com/curio-us-dev)
 
 ---
-
-### ✨ Slogan
-
-> _“AI-enabled Python Developer | I help build scalable micro-services with AI”_
 
 Thanks for visiting! ⭐️ Feel free to clone, fork, or contribute.
